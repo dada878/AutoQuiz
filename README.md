@@ -1,5 +1,5 @@
 # Overview
-全華線上測驗/MOSME自動腳本\
+全華/MOSME線上測驗自動腳本\
 可能還是需要有一點程式基礎的才會知道怎麼用\
 或者也可以看看這個已經打包好的版本 [全華助手](https://github.com/dada878/chwa-helper)
 
