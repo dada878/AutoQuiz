@@ -9,3 +9,4 @@ for (const pronlem of problems) {
         answer[description].push(opts.innerHTML);
     }
 }
+alert(`紀錄成功 共 ${Object.keys(answer).length} 題！`);
