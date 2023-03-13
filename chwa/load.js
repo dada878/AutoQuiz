@@ -44,7 +44,7 @@
                         }
                     }
                 } catch(e) {
-                    errorCount++;
+                    wrongCount++;
                 }
             }
             if (minDistanceElement) {
